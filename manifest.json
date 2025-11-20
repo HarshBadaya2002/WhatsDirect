@@ -1,0 +1,13 @@
+{
+"name": "WhatsDirect",
+"short_name": "WhatsDirect",
+"description": "Open a WhatsApp chat without saving the contact.",
+"start_url": ".",
+"display": "standalone",
+"background_color": "#071021",
+"theme_color": "#25D366",
+"icons": [
+{ "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+{ "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+]
+}
